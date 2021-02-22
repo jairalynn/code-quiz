@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    padding: 50px;
+}
+
+#startButton{
+    text-align: center;
+}
+
+.time{
+    text-align: center;
+}
+
+.scores {
+    padding: 50px;
+    text-align: center;
+}
+
